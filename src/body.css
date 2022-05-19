@@ -1,0 +1,25 @@
+.bo {
+  padding-top: 100px;
+}
+.body {
+  margin: 20px auto;
+  width: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+p {
+  user-select: none;
+}
+
+.test {
+  position: absolute;
+  border: 1px solid #000;
+}
+
+span {
+  display: inline-block;
+  width: 50px;
+}
